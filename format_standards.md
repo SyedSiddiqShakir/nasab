@@ -1,0 +1,1 @@
+In this file, we define basic file storage format for entity recording
