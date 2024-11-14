@@ -11,3 +11,4 @@ Each node (person) in the graph can have the following attributes:
 - **Gender**
 - **Photo**: Optionally, you can store file paths or image data
 - **Notes**: Any additional information, such as education, profession, etc.
+- **Social_Credit**: Novel way of choosing favourite nodes
